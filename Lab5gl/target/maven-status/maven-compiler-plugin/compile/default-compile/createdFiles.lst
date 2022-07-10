@@ -1,0 +1,5 @@
+com\gl\student\Lab5gl\entity\Employee.class
+com\gl\student\Lab5gl\repository\EmpRepository.class
+com\gl\student\Lab5gl\controller\Controller.class
+com\gl\student\Lab5gl\Lab5glApplication.class
+com\gl\student\Lab5gl\service\EmpService.class
